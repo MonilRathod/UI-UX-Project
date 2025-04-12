@@ -42,16 +42,4 @@ This project is a mobile UI/UX prototype built using **Figma** to streamline hos
 ## 🔒 User Roles
 
 - **Student**: Views personal details, requests leave, pays fees, and submits complaints.
-- **Hostel Manager**: Tracks complaints, manages room allocations, and handles maintenance.
-- **Administrator**: Manages system users and backend data.
-
----
-
-## 📷 Screenshots
-
-> Add your exported Figma frames or app mockups here.
-
----
-
-## 📂 Folder Structure (if applicable)
 
