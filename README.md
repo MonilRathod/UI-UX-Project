@@ -1,5 +1,6 @@
 # UI-UX-Project
-# 🏨 Hostel Management System - Mobile App Prototype
+# ![Asset 2](https://github.com/user-attachments/assets/f0bbf210-655b-4f75-82b8-e9e8a2ceefd7)
+ Hostel Management System - Mobile App Prototype
 
 This project is a mobile UI/UX prototype built using **Figma** to streamline hostel operations such as room allocation, fee payments, leave requests, and complaint handling. It is designed for students, hostel managers, and administrators, offering a clean and user-friendly mobile experience.
 
